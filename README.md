@@ -9,9 +9,9 @@ Welcome to the **2025 MDplus Datathon**! The GitHub repository will serve as a h
 
 ## Tutorials
 
-[Downloading and Getting Access to the Datathon Dataset](tutorials/MIMIC.md)
-[Running Groq, fast inference API](tutorials/groq.ipynb)
-[MD+ Tutorial Modules](https://mdplus.community/data)
+- [Downloading and Getting Access to the Datathon Dataset](tutorials/MIMIC.md)
+- [Running Groq, fast inference API](tutorials/groq.ipynb)
+- [MD+ Tutorial Modules](https://mdplus.community/data)
 
 ### Python
 
