@@ -6,7 +6,7 @@ This year, we're excited to have participating teams explore the **MIMIC-IV** da
 
 ## Understanding the Dataset
 
-MIMIC-IV is an healthcare dataset first published in January 2023 by Johnson AE et al. in Nature Scientific Data. You can read their study introducing the dataset [here](https://www.nature.com/articles/s41597-022-01899-x). Briefly, the dataset contains the de-identified medical information of over 500k patients admitted either to the ED or the ICU between 2008 and 2019 at [Beth Israel Deaconess Medical Center](https://www.bidmc.org). A detailed breakdown of patient demographic information can be found [here](https://www.nature.com/articles/s41597-022-01899-x/tables/2).
+MIMIC-IV is a healthcare dataset first published in January 2023 by Johnson AE et al. in Nature Scientific Data. You can read their study introducing the dataset [here](https://www.nature.com/articles/s41597-022-01899-x). Briefly, the dataset contains the de-identified medical information of over 500k patients admitted either to the ED or the ICU between 2008 and 2019 at [Beth Israel Deaconess Medical Center](https://www.bidmc.org). A detailed breakdown of patient demographic information can be found [here](https://www.nature.com/articles/s41597-022-01899-x/tables/2).
 
 The official MIMIC-IV documentation from the research group is available [here](https://mimic.mit.edu/docs/iv/) and contains more detailed specifications on the different data modules, data structure, and relevant tutorials.
 
@@ -21,9 +21,9 @@ The MIMIC-IV dataset is available on PhysioNet [here](https://physionet.org/cont
 1. **Create a PhysioNet Account**: At least one of your team members will need to create an account on PhysioNet [here](https://physionet.org/register/).
 2. **Sign Up as a Credentialed User**: Once you're logged in, you need to sign up for credentialed access [here](https://physionet.org/settings/credentialing/). The application for credentialed access is fairly straightforward and requires you to fill out basic information about yourself. You will also be asked for a reference: please include the following reference information:
   > - **Reference Category**: Supervisor (required for students and Postdocs)
-  > - **Reference Name**: Michael Yao
-  > - **Reference Email**: michael@mdplusplus.org
-  > - **Reference Organization**: MDplus and University of Pennsylvania
+  > - **Reference Name**: Emily Leventhal
+  > - **Reference Email**: emily.leventhal@icahn.mssm.edu
+  > - **Reference Organization**: MDplus
   > - **Reference Job Title or Position**: MDplus Datathon Organizing Team
 
 After submitting your team's application, you should be approved as a credentialed user in a few days (no more than a week).
@@ -66,4 +66,4 @@ If an official demo dataset is not available for your application of interest, f
 
 ### I still have questions. What can I do?
 
-Come to office hours scheduled throughout the datathon or email us! Feel free to also ask questions in the `#datathon2023` MDplus Slack channel - many folks might also have the same questions as you!
+Come to office hours scheduled throughout the datathon or email us! Feel free to also ask questions in the `#datathon2025` MDplus Slack channel - many folks might also have the same questions as you!
