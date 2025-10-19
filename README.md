@@ -16,7 +16,3 @@ Welcome to the **2025 MDplus Datathon**! The GitHub repository will serve as a h
 ### Python
 
 - [Introduction to Python Programming](tutorials/INTRO_python.md)
-
-### R
-
-- [Introduction to R Programming](tutorials/INTRO_r.md)
