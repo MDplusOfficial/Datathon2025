@@ -13,7 +13,7 @@ Welcome to the **2025 MDplus Datathon**! The GitHub repository will serve as a h
 - [Running Groq, fast inference API](tutorials/groq.ipynb)
   - [Openrouter as an alternative](https://openrouter.ai/docs/quickstart)
 - [MD+ Tutorial Modules](https://mdplus.community/data)
-- [Running LLMs locally]
+- Running LLMs locally
   - [Ollama](https://docs.ollama.com/quickstart#cli)
   - [LMstudio](https://lmstudio.ai/docs/app)
 
