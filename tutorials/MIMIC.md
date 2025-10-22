@@ -14,7 +14,7 @@ An example `Dataset` class has already been defined for you [here](../code/pytho
 
 ## Downloading the Dataset
 
-The MIMIC-IV dataset is available on PhysioNet [here](https://physionet.org/content/mimiciv/2.2/). Because the dataset contains sensitive patient data, it is important that your team completes the following steps to become a credentialed user and ultimately gain complete access to the dataset:
+The MIMIC-IV dataset is available on PhysioNet [here](https://physionet.org/content/mimiciv/3.1/). Because the dataset contains sensitive patient data, it is important that your team completes the following steps to become a credentialed user and ultimately gain complete access to the dataset:
 
 **Estimated Time for Completion: 30 min**
 
